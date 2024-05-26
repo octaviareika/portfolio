@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/octaviareika.github.io/static/css/main.2af32906.css",
-    "main.js": "/octaviareika.github.io/static/js/main.cecd4890.js",
-    "static/media/jingliu2.jpg": "/octaviareika.github.io/static/media/jingliu2.387684c133cddbaaaed3.jpg",
-    "static/media/jingliu1.jpg": "/octaviareika.github.io/static/media/jingliu1.2a17a89a177cc620e8b2.jpg",
-    "static/media/biblioteca.png": "/octaviareika.github.io/static/media/biblioteca.baeaf4e503df195a6018.png",
-    "static/media/letra-c.png": "/octaviareika.github.io/static/media/letra-c.79c1b5832472b2b3ee48.png",
-    "static/media/base-de-dados.png": "/octaviareika.github.io/static/media/base-de-dados.e643cd37d1f12a09cfe9.png",
-    "static/media/java.png": "/octaviareika.github.io/static/media/java.375f91150aebfc2e19ef.png",
-    "index.html": "/octaviareika.github.io/index.html",
-    "main.2af32906.css.map": "/octaviareika.github.io/static/css/main.2af32906.css.map",
-    "main.cecd4890.js.map": "/octaviareika.github.io/static/js/main.cecd4890.js.map"
+    "main.css": "/portfolio/static/css/main.2af32906.css",
+    "main.js": "/portfolio/static/js/main.478688f2.js",
+    "static/media/jingliu2.jpg": "/portfolio/static/media/jingliu2.387684c133cddbaaaed3.jpg",
+    "static/media/jingliu1.jpg": "/portfolio/static/media/jingliu1.2a17a89a177cc620e8b2.jpg",
+    "static/media/biblioteca.png": "/portfolio/static/media/biblioteca.baeaf4e503df195a6018.png",
+    "static/media/letra-c.png": "/portfolio/static/media/letra-c.79c1b5832472b2b3ee48.png",
+    "static/media/base-de-dados.png": "/portfolio/static/media/base-de-dados.e643cd37d1f12a09cfe9.png",
+    "static/media/java.png": "/portfolio/static/media/java.375f91150aebfc2e19ef.png",
+    "index.html": "/portfolio/index.html",
+    "main.2af32906.css.map": "/portfolio/static/css/main.2af32906.css.map",
+    "main.478688f2.js.map": "/portfolio/static/js/main.478688f2.js.map"
   },
   "entrypoints": [
     "static/css/main.2af32906.css",
-    "static/js/main.cecd4890.js"
+    "static/js/main.478688f2.js"
   ]
 }
